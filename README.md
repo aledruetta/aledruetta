@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Alejandro 👋
 
 <!--
 **aledruetta/aledruetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently looking for a remote Junior Developer position.
+- 🌱 I’m studying computer engineering at UNIVESP (Sao Paulo, Brazil).
+- :muscle: I’m improving skills in Python, Flask, PostgreSQL, GNU/Linux.
+- :mag: I closly follow subjects such as RISC-V instruction set, Unix history, Math and I plan to learn some basics of Golang and Rust soon.
