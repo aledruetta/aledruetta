@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm an argentinian teacher looking for a remote Junior Developer position.
 - 🌱 I’m studying computer engineering at UNIVESP (Sao Paulo, Brazil).
-- :muscle: I’m improving skills in Python, Flask, PostgreSQL, GNU/Linux.
+- :muscle: I’m improving skills in Python, Flask, PostgreSQL, GNU/Linux and Shell Script.
 - :mag: I closly follow subjects such as RISC-V instruction set, Unix history, Math and I plan to learn some basics of Golang and Rust soon.
 - :black_nib: I like to share some learnings at Medium: [https://medium.com/@aledruetta](https://medium.com/@aledruetta)
