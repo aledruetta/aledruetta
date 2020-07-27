@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - :muscle: Improving skills in Python, Flask, PostgreSQL, GNU/Linux and Shell Script.
 - :mag: I closly follow subjects such as RISC-V instruction set, Unix history, Math and I plan to learn some basics of Golang and Rust soon.
 - :black_nib: I like to share some learnings at Medium: [https://medium.com/@aledruetta](https://medium.com/@aledruetta)
+- ⚡ Here, my resume: [https://aledruetta.github.io/resume/](https://aledruetta.github.io/resume/)
