@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Argentinian teacher and junior developer who lived 12 years in Brazil.
-- 🌱 Finishing Computer Engineering at [UNIVESP](https://univesp.br/cursos/engenharia-de-computacao) (Sao Paulo, Brazil).
+- 🔭 Argentinian teacher who lived 12 years in Brazil. Two years of experience as a junior developer.
+- 🌱 Computer Engineer at [UNIVESP](https://univesp.br/cursos/engenharia-de-computacao) (Sao Paulo, Brazil).
 - :muscle: Improving skills in Python, Flask, PostgreSQL, C#, .NET, Angular, GNU/Linux and Shell Script.
-- :mag: I closly follow subjects such as RISC-V instruction set, Unix history, Math and I plan to learn some basics of Golang and Rust soon.
+- :mag: I closly follow subjects such as RISC-V instruction set, Unix history, Math.
 - :black_nib: I like to share some learnings at Medium: [https://aledruetta.medium.com/](https://aledruetta.medium.com/)
 - ⚡ Here, my resume: [https://aledruetta.github.io/resume/](https://aledruetta.github.io/resume/) and my LinkedIn profile: [https://www.linkedin.com/in/alejandro-druetta/](https://www.linkedin.com/in/alejandro-druetta/).
