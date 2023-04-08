@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Argentinian teacher who lived 12 years in Brazil. More than two years of experience as a junior developer.
+- 🔭 Argentinian teacher who lived 12 years in Brazil. Two years and a half of experience as a junior developer.
 - 🌱 Computer Engineer at [UNIVESP](https://univesp.br/cursos/engenharia-de-computacao) (Sao Paulo, Brazil).
 - :muscle: Improving skills in Python, Flask, PostgreSQL, C#, .NET, Angular and GNU/Linux.
 - :mag: I closly follow subjects such as RISC-V instruction set, Unix history, Math.
